@@ -10,9 +10,8 @@ pytorch tutorial (https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.h
 # BILSTM CRF 
 
 * [Pytorch BiSLTM+CRF Demo]  GPU Demo  
-
 cd ./pytorch/demo  
-python bilstm_crf_gpu.py
+python bilstm_crf_gpu.py  
 
 * [data]  
 data文件夹中有玻森数据(https://bosonnlp.com),boson数据集有6种实体类型
