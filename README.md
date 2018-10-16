@@ -9,20 +9,19 @@ pytorch tutorial (https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.h
 
 # BILSTM CRF 
 
-* [Pytorch BiSLTM+CRF Demo]  GPU Demo
-cd ./pytorch/demo
+* [Pytorch BiSLTM+CRF Demo]  GPU Demo  
+
+cd ./pytorch/demo  
 python bilstm_crf_gpu.py
 
-* [data]
+* [data]  
 data文件夹中有玻森数据(https://bosonnlp.com),boson数据集有6种实体类型
 
-* [run]
-cd data/boson
-python data_util.py
-
-cd chinese-ner-boson_test
-python train.py
-
+* [run]  
+cd data/boson  
+python data_util.py  
+cd chinese-ner-boson_test  
+python train.py  
 
 # REFERENCE 
 * [pytorch tutorial](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#advanced-making-dynamic-decisions-and-the-bi-lstm-crf)
