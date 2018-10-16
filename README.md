@@ -1,6 +1,6 @@
 # chinese-ner-project
 pytorch tutorial (https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#advanced-making-dynamic-decisions-and-the-bi-lstm-crf)
-中文实体识别 根据官网Pytorch BiLSTM+CRF将CPU版改成GPU版
+中文命名实体识别 根据官网Pytorch BiLSTM+CRF将CPU版改成GPU版
 
 # You need 
 * [Pytorch BiSLTM+CRF Demo](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#advanced-making-dynamic-decisions-and-the-bi-lstm-crf)
